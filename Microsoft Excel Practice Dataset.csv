@@ -1,0 +1,102 @@
+Record_ID,Customer_Name,Email,Phone,City,Country,Department,Product_Name,Quantity,Unit_Price,Total_Amount,Order_Status,Order_Date,Delivery_Date
+1,Michele Allen,qmoyer@austin.info,826.174.7145,South Tinabury,Saint Martin,Support,What Product,11,492.8,5420.8,Cancelled,1/5/2026,1/14/2026
+2,Marcia Dickerson,wadenicole@ramirez-mayo.biz,740.992.2479x3466,New James,New Zealand,Sales,Teacher Product,5,52.51,262.55,Completed,3/3/2025,3/11/2025
+3,Wendy Jenkins,zmckay@garner.com,072-659-0297,Port Johnny,Belgium,Sales,Head Product,14,174.96,2449.44,Pending,4/1/2024,4/14/2024
+4,Heather Solomon,theresasaunders@gmail.com,-684,North Kyleshire,United Arab Emirates,Marketing,Within Product,16,133.57,2137.12,Completed,11/12/2023,11/17/2023
+5,William Edwards,fduncan@davis.com,785-408-3588x349,East Randyport,South Africa,IT,Beyond Product,9,306.98,2762.82,In Progress,9/13/2024,9/28/2024
+6,Antonio Wood,guerrerojoan@bentley.org,511-967-2102x871,Lake Maria,Estonia,Operations,Though Product,10,388.03,3880.3,In Progress,11/14/2024,11/19/2024
+7,Kevin Kelly Jr.,merrittjose@gmail.com,001-327-186-1275x26862,Lake Steven,South Georgia and the South Sandwich Islands,Sales,Wall Product,4,202.31,809.24,Completed,8/2/2024,8/4/2024
+8,Heidi Hill,jamieanderson@gmail.com,+1-148-819-6550x0367,South Kimberlyport,Bouvet Island (Bouvetoya),Operations,Major Product,18,418.03,7524.54,Cancelled,9/25/2024,10/10/2024
+9,Jeffrey Jones,juan86@rodriguez.com,(773)324-2412,Racheltown,Bolivia,Operations,Surface Product,4,299.39,1197.56,Pending,5/28/2024,6/2/2024
+10,Heather Thomas,thomas33@robinson.com,422.527.0539x68840,Drakeborough,British Indian Ocean Territory (Chagos Archipelago),Sales,Old Product,6,462.16,2772.96,Completed,7/20/2025,7/21/2025
+11,Daniel Turner,michaellewis@gmail.com,-6256,Karenton,Liechtenstein,Operations,Set Product,8,350.07,2800.56,Cancelled,6/20/2025,6/30/2025
+12,Gloria Rivera,brenda94@allison.com,001-678-187-2164x091,Richardview,Bolivia,IT,Pull Product,8,379.23,3033.84,Cancelled,4/19/2026,4/25/2026
+13,Jay Anderson,qtran@chambers.net,+1-701-799-1816x645,Jeffreyfort,Saudi Arabia,HR,National Product,9,420.46,3784.14,Pending,10/20/2023,10/28/2023
+14,Ronald Burgess,jessica48@edwards.com,453-530-1421x91542,Mcdonaldport,Djibouti,Operations,Section Product,1,363.58,363.58,Completed,9/3/2024,9/12/2024
+15,Lori Santos,creyes@bridges.org,+1-221-445-1871x0177,East Dylanmouth,Libyan Arab Jamahiriya,IT,Least Product,3,123.82,371.46,Cancelled,4/12/2024,4/17/2024
+16,Wesley Mcgee,georgekim@travis.com,+1-921-429-7696x014,West Matthewbury,Montenegro,HR,Behind Product,19,16.5,313.5,Cancelled,2/23/2026,3/4/2026
+17,Scott Jones,nicholas87@gmail.com,001-889-238-5328x7093,Howellton,Togo,HR,Myself Product,10,336.08,3360.8,Cancelled,10/13/2023,10/19/2023
+18,Pamela Clark,fmaddox@torres.biz,3963771857,South Heatherchester,Paraguay,Finance,Try Product,3,275.92,827.76,Pending,10/20/2023,11/4/2023
+19,Christopher Gomez,sfarley@hotmail.com,-4996,Bradshire,Hong Kong,Marketing,Gun Product,16,156.07,2497.12,Cancelled,10/6/2024,10/15/2024
+20,Joanne Ward,hannah20@yahoo.com,(045)066-2872x188,Smithshire,Lithuania,Support,Mission Product,2,258.8,517.6,In Progress,3/30/2025,4/10/2025
+21,Lisa Galloway,gabrielle03@gmail.com,001-983-448-1923x7167,North Pamela,Turks and Caicos Islands,Operations,Week Product,9,79.01,711.09,In Progress,7/14/2025,7/25/2025
+22,Levi Walker,harrisonwayne@gmail.com,(474)912-9841x53033,New Eileenfort,Cambodia,Operations,Friend Product,15,148.58,2228.7,Pending,2/23/2025,3/4/2025
+23,Nicholas Carpenter,randymcdaniel@gmail.com,029-153-4997,New Stephanie,Netherlands,Operations,Movement Product,18,396.45,7136.1,Cancelled,12/22/2024,12/26/2024
+24,Brandon Hammond,kburns@hotmail.com,401-140-6531x305,Billytown,Bosnia and Herzegovina,Operations,Common Product,18,388.07,6985.26,Cancelled,5/16/2024,5/23/2024
+25,Antonio Mcclure,tchang@dorsey.com,279.514.1548,Sharpfurt,Faroe Islands,Sales,Imagine Product,2,52.78,105.56,Cancelled,9/22/2024,10/7/2024
+26,Melissa Medina,briannaharris@yahoo.com,+1-390-960-3359x175,Websterton,Uruguay,Marketing,Figure Product,14,218.43,3058.02,Completed,6/22/2024,7/7/2024
+27,Bryan Smith,lisameyers@edwards.com,653.272.1319x6923,New Nicole,Kazakhstan,Operations,Whose Product,20,331.2,6624,In Progress,10/24/2023,11/4/2023
+28,Alicia Cain,delgadorichard@miller.com,(880)171-7801,Edwardsshire,New Caledonia,IT,Respond Product,9,236.39,2127.51,In Progress,8/1/2023,8/8/2023
+29,Nicholas Tate,brentbrooks@hotmail.com,+1-600-505-7048x85100,Riveraton,Saint Pierre and Miquelon,Operations,What Product,9,465.59,4190.31,Pending,5/19/2025,5/23/2025
+30,John Brown,wwashington@george.biz,001-124-958-2189x65962,Stevenborough,Nicaragua,Support,Arm Product,3,455.35,1366.05,Cancelled,3/15/2025,3/24/2025
+31,Danielle Leblanc,cole19@hotmail.com,768.330.3115,West Robert,United States of America,Finance,Research Product,6,272.8,1636.8,In Progress,10/6/2024,10/20/2024
+32,Glenda Weeks,jeffery57@aguilar-morrison.com,744-711-2108,Jessicaside,Swaziland,Sales,Try Product,18,243.64,4385.52,In Progress,12/2/2023,12/4/2023
+33,Mathew Lopez,melissacole@mccoy-lopez.com,001-803-887-9370x97943,Lake Bethany,Liberia,Sales,Performance Product,8,41.45,331.6,In Progress,6/12/2024,6/18/2024
+34,Anthony Porter,ycarson@yahoo.com,+1-254-669-5229x60539,West Evanborough,Turks and Caicos Islands,HR,Thus Product,10,289.84,2898.4,Pending,4/5/2025,4/12/2025
+35,Mary Stanton,michelehobbs@tucker-scott.com,033.114.6318x6598,Port Samanthashire,Timor-Leste,Support,Machine Product,20,308.54,6170.8,Pending,5/27/2025,5/30/2025
+36,Sheila Young,nwoods@gmail.com,-1360,New Shannonmouth,Liechtenstein,Sales,Interest Product,2,206.35,412.7,Completed,1/25/2025,1/28/2025
+37,Brian Peck,paula51@yahoo.com,032.901.2585x8685,West Samuel,Botswana,Marketing,Director Product,13,320.71,4169.23,Pending,6/20/2023,6/30/2023
+38,Katie Booker,griffinalexandria@gmail.com,001-295-476-0572,West Nathan,Venezuela,HR,Very Product,13,192.86,2507.18,Cancelled,1/24/2025,2/8/2025
+39,Bethany Thomas,bradbarker@gmail.com,108.885.2067x3773,Jessefurt,Liechtenstein,Finance,Air Product,19,118.47,2250.93,In Progress,11/26/2025,12/6/2025
+40,Adrian Cunningham,hansonthomas@davis.net,669.363.6052,Lake Kyleburgh,Falkland Islands (Malvinas),Finance,Suffer Product,18,193.08,3475.44,Cancelled,9/3/2024,9/16/2024
+41,Ruben Young,collierdaniel@gmail.com,390-797-2604,Port Larryfort,Libyan Arab Jamahiriya,Marketing,Various Product,6,342.39,2054.34,Cancelled,2/9/2025,2/10/2025
+42,Todd Arnold,aallen@banks.biz,001-140-305-4034x440,Lake Erinmouth,Dominican Republic,Sales,Again Product,12,456.66,5479.92,Cancelled,4/30/2024,5/4/2024
+43,Darlene Clark,lwood@carrillo.com,001-127-900-6408x21075,West Doris,Anguilla,IT,Past Product,9,430.68,3876.12,Pending,12/26/2025,1/10/2026
+44,Lisa Howell,kelseysmith@yahoo.com,457-730-1085,Nicholastown,Bangladesh,Sales,Sort Product,17,105.8,1798.6,Cancelled,11/2/2023,11/13/2023
+45,John Dillon,lorishepard@costa.info,001-516-932-0418x835,East Melanie,Japan,Support,Letter Product,9,31.74,285.66,Completed,5/28/2025,6/7/2025
+46,Stephanie Williams,maria32@gmail.com,886-238-8417,Charlesmouth,Somalia,Operations,Skin Product,6,269.34,1616.04,Cancelled,8/6/2023,8/20/2023
+47,Vincent Martin,lallen@yahoo.com,9118855475,Heatherland,Netherlands,Support,Large Product,11,29.32,322.52,Pending,5/4/2025,5/18/2025
+48,Marissa Jackson,nramirez@gmail.com,(043)524-6852x4722,Duncanview,Jordan,Sales,Box Product,8,114.02,912.16,Cancelled,1/7/2024,1/13/2024
+49,Kristin Gallagher,toddhicks@paul.com,+1-434-245-4076x0299,Rodneyfort,Sweden,Support,Last Product,11,432.1,4753.1,In Progress,9/3/2025,9/7/2025
+50,Sara Brown,chadlyons@hotmail.com,001-190-153-9277x2210,South Karenfurt,Senegal,HR,Lay Product,1,382.16,382.16,Pending,4/15/2025,4/22/2025
+51,Laura Johnson,hgalloway@wilkins.com,011.615.9687x56654,Munozmouth,Egypt,Operations,Detail Product,17,471.99,8023.83,Cancelled,1/22/2025,1/25/2025
+52,Lindsey Garza,andersonshelby@vasquez.com,+1-514-853-4676x620,Adamsstad,Holy See (Vatican City State),HR,Yourself Product,15,47.58,713.7,In Progress,1/21/2026,1/24/2026
+53,Angela Sherman,jamesautumn@martinez.info,001-896-025-6427x9477,West Melissabury,Cyprus,Operations,Table Product,14,205.95,2883.3,In Progress,3/9/2026,3/17/2026
+54,Lisa Whitaker,zchambers@gmail.com,133-096-3888,Kaylatown,Nauru,Support,Represent Product,9,60.25,542.25,In Progress,3/13/2026,3/23/2026
+55,Darlene Yates,walter65@hotmail.com,-10635,Sydneytown,Montserrat,Operations,Well Product,19,212.57,4038.83,In Progress,4/6/2026,4/8/2026
+56,Matthew Jones,mariakoch@gmail.com,(668)468-3998,Thompsonfort,Switzerland,Operations,Save Product,20,219.95,4399,In Progress,12/5/2024,12/10/2024
+57,Katherine Knapp,angelarivera@brown-johnson.com,142-513-0475,South Kathrynfurt,Christmas Island,Finance,Seat Product,19,301.68,5731.92,Completed,4/27/2024,5/4/2024
+58,William Adams,rmoody@hotmail.com,694.825.4389x90636,North Anthonytown,Suriname,HR,Group Product,6,309.7,1858.2,In Progress,5/6/2025,5/8/2025
+59,Kimberly Hoover,amandamatthews@griffith-roberts.com,967-986-2383x335,North Jacobside,Costa Rica,HR,Laugh Product,13,77.15,1002.95,In Progress,12/5/2023,12/13/2023
+60,Heather Simmons,keith19@newman.com,+1-849-324-9965x21019,Calhounburgh,Trinidad and Tobago,Marketing,Eye Product,8,133.1,1064.8,Pending,8/16/2025,8/21/2025
+61,Casey Russell,sharonparker@perez-caldwell.org,+1-168-175-4533x1155,East Davidberg,Grenada,IT,Reduce Product,6,124.38,746.28,Completed,7/18/2023,7/22/2023
+62,Jamie Smith,jerryroth@perez.com,(726)674-4493x97153,Richardsonview,Djibouti,IT,Ok Product,10,242.83,2428.3,Cancelled,3/12/2024,3/16/2024
+63,Angela Bauer,prestonserrano@dennis.org,-7404,Randyshire,Svalbard & Jan Mayen Islands,Sales,Much Product,6,103.31,619.86,Pending,9/11/2023,9/16/2023
+64,Dana Nolan,stevenlang@beltran.com,(037)460-3035,Thomasview,Liechtenstein,Support,Hot Product,5,484.44,2422.2,Pending,12/19/2024,12/27/2024
+65,Gina Gordon,bmyers@hotmail.com,672.534.2960,Matthewview,Saint Helena,IT,Else Product,13,75.18,977.34,Cancelled,11/16/2023,11/25/2023
+66,Paul Patrick,zrobbins@patrick-farrell.org,+1-603-154-7469x2067,West Jessebury,Ecuador,IT,Method Product,9,162.7,1464.3,In Progress,8/12/2023,8/14/2023
+67,Keith Harris,charles54@mcbride.com,001-481-296-7140x34888,Beckerberg,Israel,IT,Eight Product,2,431.92,863.84,Completed,12/14/2024,12/20/2024
+68,Amanda Walker,droberts@gmail.com,099.004.8834,Cookborough,Costa Rica,Support,Look Product,9,96.32,866.88,Completed,2/13/2026,2/26/2026
+69,Jeffrey Pearson,bethwiggins@hotmail.com,001-864-028-3292x266,Andreabury,Netherlands,Support,Out Product,20,33.48,669.6,Cancelled,3/5/2026,3/12/2026
+70,Jennifer Williams,gallegoslynn@peterson.biz,(661)784-9811x937,Taylorhaven,Ghana,IT,Right Product,7,467.95,3275.65,In Progress,9/27/2023,9/28/2023
+71,Kayla Wilcox,xedwards@hotmail.com,001-937-765-4591x7033,South Heather,British Indian Ocean Territory (Chagos Archipelago),Support,Heart Product,10,198.75,1987.5,In Progress,6/14/2024,6/19/2024
+72,Lawrence Murphy,kenneth36@hanson-white.com,926-925-1558x1800,Allisonfurt,Suriname,HR,Prevent Product,18,265.05,4770.9,Cancelled,1/13/2024,1/19/2024
+73,Bobby Lee,amybaker@hotmail.com,995.106.8230x54107,Davidberg,Barbados,Sales,Commercial Product,9,401.73,3615.57,Cancelled,10/5/2025,10/7/2025
+74,Frank Guerrero,pescobar@gmail.com,333-455-5415,Loweton,Romania,Sales,Despite Product,17,149.78,2546.26,In Progress,5/14/2024,5/29/2024
+75,Michelle Santiago,sharonmurray@mclaughlin.org,162.364.8839x107,East Adamchester,Cambodia,Support,Now Product,15,35.45,531.75,Pending,1/12/2024,1/16/2024
+76,Joyce Garcia,tmartinez@gmail.com,7222913236,Lake Matthew,Guatemala,Sales,Heavy Product,8,83.47,667.76,Cancelled,9/16/2025,9/28/2025
+77,Sandra Pacheco,scott36@smith.com,(640)817-9347x68139,South Tammy,Senegal,Finance,Situation Product,14,284.98,3989.72,Completed,5/25/2025,5/26/2025
+78,Cindy Weber,shepherdheather@johnson-bentley.com,-6033,Richardport,Libyan Arab Jamahiriya,Marketing,Across Product,6,234.98,1409.88,Cancelled,9/26/2023,10/10/2023
+79,Eduardo Davis,mark04@gmail.com,340-784-2626x046,Brocktown,Antarctica (the territory South of 60 deg S),Marketing,Now Product,18,294.31,5297.58,In Progress,9/12/2023,9/13/2023
+80,Zachary Howard,lopezjennifer@washington-nelson.info,(594)780-7212x0147,Banksstad,Australia,Support,Receive Product,10,429.36,4293.6,Cancelled,1/14/2026,1/27/2026
+81,Matthew Mckenzie,gonzalesrobert@yahoo.com,5088993259,Baileymouth,China,Finance,Heavy Product,2,16.4,32.8,Completed,12/24/2023,1/7/2024
+82,Vicki Shannon,burgessdavid@reese.org,493-997-8488x237,Wadeberg,Japan,Marketing,Huge Product,12,446.87,5362.44,In Progress,12/2/2023,12/15/2023
+83,Sandra Thompson MD,diane03@jones.com,(375)351-2909,Lake Brandonfurt,Bangladesh,IT,Appear Product,4,210.05,840.2,In Progress,4/12/2025,4/19/2025
+84,John Johnson,rbarber@hotmail.com,602.480.7744x5280,Port Allison,Sweden,IT,According Product,1,440.07,440.07,Completed,5/4/2026,5/5/2026
+85,Dr. Kenneth Melton,rlopez@yahoo.com,331-276-8644x42820,South Rhonda,Liberia,Support,Free Product,15,228.03,3420.45,Pending,4/13/2025,4/16/2025
+86,Alison Potter,moraleshannah@cantrell.com,+1-765-028-3590x287,Lake Lucashaven,Venezuela,Sales,Month Product,17,146.5,2490.5,Pending,5/31/2024,6/6/2024
+87,Leah Pope,anna92@moss-harding.com,(698)258-3891x94135,Reillyfort,Kiribati,Support,Summer Product,6,274.82,1648.92,Pending,5/20/2023,6/3/2023
+88,Joshua Castaneda,jacksoncarol@gmail.com,756.300.6389x57780,Fordville,Botswana,Support,Police Product,20,350.9,7018,In Progress,9/17/2025,10/2/2025
+89,Jared Marshall,mparker@thompson.com,4160531191,Ochoastad,Anguilla,Operations,Tree Product,7,302.06,2114.42,Cancelled,4/16/2026,4/28/2026
+90,Matthew Horn,danielbennett@yahoo.com,470.150.2737x65806,Katherinestad,South Africa,Support,Nor Product,2,269.32,538.64,Pending,11/15/2025,11/27/2025
+91,Cory Mclaughlin,sandovalchristopher@moore.com,8501368479,Rickfort,Jordan,Support,Understand Product,13,218.1,2835.3,Completed,3/4/2025,3/17/2025
+92,Alicia Johnson,thompsonandrew@swanson.biz,168.330.1813x7659,Anthonystad,Afghanistan,Marketing,Business Product,17,30.95,526.15,In Progress,9/29/2023,10/4/2023
+93,Jacqueline Smith,msmith@jenkins.com,977.927.6362x8451,West Devonville,Israel,Operations,Son Product,2,453.85,907.7,Cancelled,7/11/2025,7/15/2025
+94,Francisco Bennett,matthewhart@may.com,+1-900-274-5742x0451,Lake Michael,Sri Lanka,Support,Color Product,1,319.97,319.97,Cancelled,7/22/2025,8/1/2025
+95,Deborah Smith,bdean@yahoo.com,-8755,South Juliafurt,United Kingdom,Marketing,Sing Product,13,25.9,336.7,In Progress,10/27/2024,11/5/2024
+96,Jennifer Osborn,lstewart@johnson.org,+1-873-638-9461x247,Onealland,Singapore,Sales,Nearly Product,20,490.24,9804.8,Pending,4/26/2025,4/28/2025
+97,Erica Nichols,castroronald@yahoo.com,+1-920-851-7778x357,East Charles,Montserrat,Sales,Policy Product,6,363.76,2182.56,Completed,1/19/2026,2/1/2026
+98,Sheri Jones,fitzgeraldjoseph@nolan-willis.com,(759)957-8981,Port Lindsey,Ethiopia,Sales,Matter Product,15,277.9,4168.5,Pending,8/9/2023,8/22/2023
+99,Patrick Johnston,william98@knapp.info,621-042-8146,New Ryan,Suriname,Sales,Reveal Product,5,422.79,2113.95,Cancelled,12/22/2024,12/26/2024
+100,Taylor Perry,mcruz@sampson.org,001-750-668-8272x82558,Port Thomas,Qatar,HR,Protect Product,15,499.28,7489.2,Cancelled,1/14/2025,1/21/2025
+,,,,,,,,,,,,,
